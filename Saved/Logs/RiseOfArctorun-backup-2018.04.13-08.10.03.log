@@ -1,0 +1,949 @@
+﻿Log file open, 04/12/18 20:27:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RiseOfArctorun
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-299741628) SRandInit(-299741628).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.353695
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal Engine 4/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.13-03.27.19:917][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-03.27.19:917][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.13-03.27.20:015][  0]LogInit: Computer: LAPTOP-BHO2KMSR
+[2018.04.13-03.27.20:015][  0]LogInit: User: calgo
+[2018.04.13-03.27.20:015][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.13-03.27.20:015][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.04.13-03.27.20:015][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.13-03.27.20:015][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.13-03.27.20:015][  0]LogMemory: Process Physical Memory: 276.17 MB used, 276.17 MB peak
+[2018.04.13-03.27.20:015][  0]LogMemory: Process Virtual Memory: 277.07 MB used, 277.07 MB peak
+[2018.04.13-03.27.20:015][  0]LogMemory: Physical Memory: 6362.50 MB used,  9913.67 MB free, 16276.17 MB total
+[2018.04.13-03.27.20:015][  0]LogMemory: Virtual Memory: 690.11 MB used,  9913.67 MB free, 134217728.00 MB total
+[2018.04.13-03.27.21:915][  0]LogInit: Using OS detected language (en-US).
+[2018.04.13-03.27.21:915][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.13-03.27.22:207][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.13-03.27.23:287][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.13-03.27.25:869][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.13-03.27.25:963][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.13-03.27.25:963][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.13-03.27.25:977][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.13-03.27.25:977][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.13-03.27.25:981][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.13-03.27.25:981][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.13-03.27.25:981][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.13-03.27.25:993][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.13-03.27.25:995][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.13-03.27.25:995][  0]LogWindows: EnumDisplayDevices:
+[2018.04.13-03.27.25:995][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.13-03.27.25:995][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.13-03.27.25:995][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.13-03.27.25:996][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.04.13-03.27.25:996][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.13-03.27.25:996][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.13-03.27.25:996][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.13-03.27.25:996][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.13-03.27.25:996][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.04.13-03.27.26:043][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.13-03.27.26:325][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.13-03.27.26:469][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../RiseOfArc/Aphelon/Intermediate/Shaders/WorkingDirectory/22104/).
+[2018.04.13-03.27.26:470][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/calgo/AppData/Local/Temp/UnrealShaderWorkingDir/479EC9A44BDEB45950E4E1B0290499F6/'.
+[2018.04.13-03.27.26:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.13-03.27.31:703][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.13-03.27.31:765][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.13-03.27.31:846][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.13-03.27.31:938][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.13-03.27.32:094][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.13-03.27.32:167][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.13-03.27.32:250][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.13-03.27.32:312][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.13-03.27.32:365][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.13-03.27.32:426][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.13-03.27.32:487][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.13-03.27.32:543][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.13-03.27.32:601][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.13-03.27.32:659][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.13-03.27.32:780][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.13-03.27.32:780][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.13-03.27.32:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.13-03.27.32:926][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.13-03.27.33:135][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.13-03.27.33:192][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.13-03.27.33:267][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.13-03.27.33:328][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.13-03.27.33:404][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.13-03.27.33:491][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.13-03.27.33:491][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.13-03.27.34:762][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.13-03.27.34:929][  0]LogDerivedDataCache: Loaded boot cache 0.17s 78MB C:/Users/calgo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.13-03.27.34:929][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/calgo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.13-03.27.34:929][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../RiseOfArc/Aphelon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.13-03.27.34:929][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.13-03.27.34:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../RiseOfArc/Aphelon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.13-03.27.34:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.13-03.27.35:024][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.13-03.27.35:037][  0]LogDerivedDataCache: Using Local data cache path C:/Users/calgo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.13-03.27.35:107][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.13-03.27.35:163][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.13-03.27.35:275][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-03.27.35:285][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-03.27.40:107][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-03.27.42:317][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.13-03.27.42:394][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.13-03.27.42:394][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.13-03.27.42:394][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.13-03.27.42:394][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.13-03.27.42:394][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.13-03.27.42:950][  0]LogNetVersion: RiseOfArctorun , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 369041115)
+[2018.04.13-03.27.44:922][  0]LogAssetRegistry: FAssetRegistry took 0.0407 seconds to start up
+[2018.04.13-03.27.55:238][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.823809 seconds
+[2018.04.13-03.27.55:382][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.13-03.27.55:383][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.13-03.27.55:383][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.13-03.27.55:458][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.13-03.28.18:604][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.13-03.28.18:671][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.13-03.28.20:383][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.13-03.28.21:281][  0]SourceControl: Source control is disabled
+[2018.04.13-03.28.21:296][  0]SourceControl: Source control is disabled
+[2018.04.13-03.28.21:444][  0]SourceControl: Source control is disabled
+[2018.04.13-03.28.21:528][  0]SourceControl: Source control is disabled
+[2018.04.13-03.28.23:071][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.13-03.28.23:390][  0]LogOcInput: OculusInput pre-init called
+[2018.04.13-03.28.24:204][  0]LogEngine: Initializing Engine...
+[2018.04.13-03.28.24:352][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.04.13-03.28.25:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.13-03.28.25:216][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.13-03.28.26:401][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.13-03.28.26:823][  0]LogInit: XAudio2 using 'Speakers (ASUS ROG 7.1)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.13-03.28.26:947][  0]LogInit: FAudioDevice initialized.
+[2018.04.13-03.28.27:125][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/calgo/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.13-03.28.27:163][  0]LogInit: Texture streaming: Enabled
+[2018.04.13-03.28.27:517][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.13-03.28.27:518][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={9C3CC502-4A9B-12C3-9B3A-44AD04B91ECF}
+[2018.04.13-03.28.27:959][  0]LogInit: Transaction tracking system initialized
+[2018.04.13-03.28.28:688][  0]BlueprintLog: New page: Editor Load
+[2018.04.13-03.28.30:993][  0]LocalizationService: Localization service is disabled
+[2018.04.13-03.28.32:836][  0]LogConsoleResponse: Display: 
+[2018.04.13-03.28.35:083][  0]LogFileCache: Scanning file cache for directory 'D:/RiseOfArc/Aphelon/Content/' took 0.03s
+[2018.04.13-03.28.35:083][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.13-03.28.35:083][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.13-03.28.35:101][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.13-03.28.38:098][  0]SourceControl: Source control is disabled
+[2018.04.13-03.28.38:152][  0]Cmd: MAP LOAD FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-03.28.38:224][  0]LightingResults: New page: Lighting Build
+[2018.04.13-03.28.38:572][  0]MapCheck: New page: Map Check
+[2018.04.13-03.28.38:572][  0]LightingResults: New page: Lighting Build
+[2018.04.13-03.28.40:684][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.28.40:684][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Foot.uasset.
+[2018.04.13-03.28.40:699][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Foot : Can't find file for asset. /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01
+[2018.04.13-03.28.40:699][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.28.40:699][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Foot.uasset.
+[2018.04.13-03.28.40:699][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Foot : Can't find file for asset. /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01
+[2018.04.13-03.28.40:700][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.28.40:700][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.40:701][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01
+[2018.04.13-03.28.40:701][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.28.40:701][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.40:701][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01
+[2018.04.13-03.28.40:702][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.28.40:702][  0]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01.P_Fire_Torch_01 Referenced by Foot Firte_GEN_VARIABLE
+[2018.04.13-03.28.40:702][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.40:702][  0]LoadErrors: Failed to load /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01.P_Fire_Torch_01 Referenced by Foot Firte_GEN_VARIABLE
+[2018.04.13-03.28.40:702][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01
+[2018.04.13-03.28.40:921][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.28.40:921][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack Referenced by CharacterMesh0
+[2018.04.13-03.28.40:921][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.40:921][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack Referenced by CharacterMesh0
+[2018.04.13-03.28.40:921][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BarsBack
+[2018.04.13-03.28.40:954][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.28.40:955][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack Referenced by CharacterMesh0
+[2018.04.13-03.28.40:955][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.40:955][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack Referenced by CharacterMesh0
+[2018.04.13-03.28.40:955][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/PlayerPicBack
+[2018.04.13-03.28.41:014][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.28.41:014][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack.BarsBack Referenced by CharacterMesh0
+[2018.04.13-03.28.41:014][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:014][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack.BarsBack Referenced by CharacterMesh0
+[2018.04.13-03.28.41:014][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BarsBack
+[2018.04.13-03.28.41:015][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.28.41:015][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack.PlayerPicBack Referenced by CharacterMesh0
+[2018.04.13-03.28.41:015][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:015][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack.PlayerPicBack Referenced by CharacterMesh0
+[2018.04.13-03.28.41:015][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/PlayerPicBack
+[2018.04.13-03.28.41:039][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.28.41:039][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack.PlayerPicBack Referenced by Image_160
+[2018.04.13-03.28.41:039][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:039][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/PlayerPicBack.PlayerPicBack Referenced by Image_160
+[2018.04.13-03.28.41:040][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/PlayerPicBack
+[2018.04.13-03.28.41:040][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.28.41:040][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack.BarsBack Referenced by Image_325
+[2018.04.13-03.28.41:040][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:040][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/BarsBack.BarsBack Referenced by Image_325
+[2018.04.13-03.28.41:040][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BarsBack
+[2018.04.13-03.28.41:266][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.28.41:266][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:266][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BarsBack
+[2018.04.13-03.28.41:266][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.28.41:266][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:266][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/PlayerPicBack
+[2018.04.13-03.28.41:268][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.28.41:268][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:268][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BarsBack
+[2018.04.13-03.28.41:268][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.28.41:268][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.28.41:268][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/HuD : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/PlayerPicBack
+[2018.04.13-03.28.42:583][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.28.42:583][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Weapon_Sword.uasset.
+[2018.04.13-03.28.42:583][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Weapon_Sword : Can't find file for asset. /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword
+[2018.04.13-03.28.42:583][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.28.42:583][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Weapon_Sword.uasset.
+[2018.04.13-03.28.42:583][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Weapon_Sword : Can't find file for asset. /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword
+[2018.04.13-03.28.42:584][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.28.42:584][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.42:584][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword
+[2018.04.13-03.28.42:585][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.28.42:585][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.42:585][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword
+[2018.04.13-03.28.42:586][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.28.42:586][  0]LoadErrors: Failed to load /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword.SK_Blade_DragonSword Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.04.13-03.28.42:586][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Ai.uasset.
+[2018.04.13-03.28.42:586][  0]LoadErrors: Failed to load /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword.SK_Blade_DragonSword Referenced by SkeletalMesh_GEN_VARIABLE
+[2018.04.13-03.28.42:586][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Ai : Can't find file for asset. /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword
+[2018.04.13-03.28.46:038][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.13-03.28.47:672][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-03.28.48:119][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-03.28.48:244][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.48ms to complete.
+[2018.04.13-03.28.48:245][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 10.112
+[2018.04.13-03.28.51:004][  0]LogCollectionManager: Loaded 0 collections in 0.001287 seconds
+[2018.04.13-03.28.51:312][  0]LogFileCache: Scanning file cache for directory 'D:/RiseOfArc/Aphelon/Saved/Collections/' took 0.01s
+[2018.04.13-03.28.51:312][  0]LogFileCache: Scanning file cache for directory 'D:/RiseOfArc/Aphelon/Content/Developers/calgo/Collections/' took 0.01s
+[2018.04.13-03.28.51:312][  0]LogFileCache: Scanning file cache for directory 'D:/RiseOfArc/Aphelon/Content/Collections/' took 0.01s
+[2018.04.13-03.28.51:312][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.13-03.28.51:395][  0]LogContentBrowser: Native class hierarchy populated in 0.0419 seconds. Added 2363 classes and 519 folders.
+[2018.04.13-03.28.51:573][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.13-03.28.52:711][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.13-03.28.52:840][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.13-03.28.58:219][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.13-03.28.58:512][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RiseOfArctorun
+[2018.04.13-03.28.58:512][  0]LogTemp: CWD: D:\Unreal Engine 4\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.13-03.28.58:512][  0]LogTemp: Initial Dir: D:\Unreal Engine 4\UE_4.18
+[2018.04.13-03.28.58:512][  0]LogTemp: Env CWD: D:\Unreal Engine 4\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.13-03.28.58:512][  0]LogTemp: BranchPath = LAPTOP-BHO2KMSR/D/Unreal Engine 4/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-BHO2KMSR/D/Unreal Engine 4/UE_4.18/Engine/Binaries
+[2018.04.13-03.28.58:512][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\calgo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.13-03.28.58:512][  0]LogSlate: Took 0.015283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-03.28.58:595][  0]LogSlate: Took 0.016240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.13-03.28.58:685][  0]LogSlate: Took 0.015470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.13-03.28.59:695][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-03.29.01:426][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.13-03.29.01:427][  0]LogLoad: (Engine Initialization) Total time: 118.41 seconds
+[2018.04.13-03.29.01:427][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.13-03.29.01:441][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.13-03.29.01:441][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.13-03.29.02:498][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.13-03.29.03:627][  2]LogSlate: Took 0.012039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-03.29.04:482][  7]LogAssetRegistry: Asset discovery search completed in 79.5823 seconds
+[2018.04.13-03.29.04:514][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.13-03.29.04:514][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000205 seconds (updated 0 objects)
+[2018.04.13-03.29.18:590][495]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-03.29.22:004][495]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-03.29.40:407][560]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\calgo\Downloads\StaffUnwarped.obj)
+[2018.04.13-03.29.40:612][560]LogFbx: Loading FBX Scene from C:\Users\calgo\Downloads\StaffUnwarped.obj
+[2018.04.13-03.29.40:696][560]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-03.29.43:749][560]LogFbx: Loading FBX Scene from C:\Users\calgo\Downloads\StaffUnwarped.obj
+[2018.04.13-03.29.43:776][560]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-03.29.43:788][560]LogFbx: =================================================
+[2018.04.13-03.29.43:788][560]LogFbx: Dumping Node START [default] 
+[2018.04.13-03.29.43:788][560]LogFbx: 	Total Deformer Count -1715314056.
+[2018.04.13-03.29.43:788][560]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.29.43:788][560]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.13-03.29.43:788][560]LogFbx: Dumping Node END [default]
+[2018.04.13-03.29.43:788][560]LogFbx: =================================================
+[2018.04.13-03.29.43:788][560]LogFbx: Dumping Node START [default] 
+[2018.04.13-03.29.43:788][560]LogFbx: 	Total Deformer Count -1715313944.
+[2018.04.13-03.29.43:788][560]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.29.43:789][560]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.13-03.29.43:789][560]LogFbx: Dumping Node END [default]
+[2018.04.13-03.29.43:789][560]LogFbx: =================================================
+[2018.04.13-03.29.43:789][560]LogFbx: Dumping Node START [default] 
+[2018.04.13-03.29.43:789][560]LogFbx: 	Total Deformer Count -1715313944.
+[2018.04.13-03.29.43:789][560]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.29.43:789][560]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.13-03.29.43:789][560]LogFbx: Dumping Node END [default]
+[2018.04.13-03.29.43:848][560]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.04.13-03.29.43:943][560]LogSkeletalMesh: Section 0: 1522 vertices, 1 active bones
+[2018.04.13-03.29.43:972][560]LogSkeletalMesh: Section 0: Material=0, 1918 triangles
+[2018.04.13-03.29.43:985][560]LogLinker: Can't find file '/Game/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton'
+[2018.04.13-03.29.43:986][560]LogLinker: Can't find file '/Game/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton'
+[2018.04.13-03.29.44:005][560]LogLinker: Can't find file '/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset'
+[2018.04.13-03.29.44:006][560]LogLinker: Can't find file '/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset'
+[2018.04.13-03.29.44:060][560]LogMaterial: Warning: Material /Game/ThirdPersonBP/Staff1/defaultMat.defaultMat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.13-03.29.44:072][560]LogMaterial: Missing cached shader map for material defaultMat, compiling. 
+[2018.04.13-03.29.44:340][560]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0'
+[2018.04.13-03.29.44:645][560]LogSlate: Took 0.004582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-03.29.44:691][560]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.04.13-03.29.50:198][642]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0126 seconds. Added 116 classes and 0 folders.
+[2018.04.13-03.29.52:484][642]LogSlate: Took 0.010822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.13-03.29.54:874][700]LogSlate: Took 0.052404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.13-03.29.55:491][716]LogRenderer: Reallocating scene render targets to support 1208x696 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-03.30.07:901][958]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.13-03.30.08:761][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.30.09:132][958]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.13-03.30.10:605][958]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.13-03.30.10:670][959]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-03.30.53:800][539]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.30.53:859][539]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.04.13-03.32.33:731][644]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.04.13-03.32.33:744][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.35.28:432][179]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.04.13-03.35.38:173][492]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.04.13-03.35.38:173][492]LogTexture: Display: Building textures: T_bloodSpatter_03 (AutoDXT, 512X512)
+[2018.04.13-03.35.38:173][492]LogTexture: Display: Building textures: T_bloodSpatter_01 (AutoDXT, 512X512)
+[2018.04.13-03.36.25:072][442]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.13-03.36.25:075][442]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2018.04.13-03.36.32:482][689]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.13-03.36.32:486][689]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.04.13-03.36.38:712][901]BlueprintLog: New page: Compile Staff1
+[2018.04.13-03.36.40:349][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/Staff1" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/Staff1.uasset" SILENT=true
+[2018.04.13-03.36.40:547][934]LogSavePackage: Save=95.04ms
+[2018.04.13-03.36.40:547][934]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Staff1A04978F249D9730179586097FD81CF8C.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/Staff1.uasset'
+[2018.04.13-03.36.40:559][934]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/Staff1.uasset
+[2018.04.13-03.36.41:265][961]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.13-03.36.41:800][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.13-03.36.41:821][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-03.36.42:007][961]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 12, 2018, 1:36:41 PM)
+[2018.04.13-03.36.42:030][961]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.13-03.36.42:078][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047551s)
+[2018.04.13-03.36.42:078][961]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.13-03.36.42:081][961]LogPlayLevel: PIE: World Init took: (0.003593s)
+[2018.04.13-03.36.42:082][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051677s)
+[2018.04.13-03.36.42:184][961]LogInit: XAudio2 using 'Speakers (ASUS ROG 7.1)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.13-03.36.42:275][961]LogInit: FAudioDevice initialized.
+[2018.04.13-03.36.42:490][961]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.36.42:491][961]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.36.42:493][961]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.36.42:493][961]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.36.42:502][961]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BarsBack'
+[2018.04.13-03.36.42:502][961]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BarsBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.36.42:502][961]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/PlayerPicBack'
+[2018.04.13-03.36.42:503][961]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/PlayerPicBack' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/HuD.uasset.
+[2018.04.13-03.36.42:525][961]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.13-03.36.42:540][961]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.12-20.36.42
+[2018.04.13-03.36.42:792][961]LogWorld: Bringing up level for play took: 0.266351
+[2018.04.13-03.36.43:035][961]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.13-03.36.43:103][961]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.898
+[2018.04.13-03.36.43:115][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.13-03.36.43:438][961]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-03.36.46:033][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.13-03.36.46:253][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.13-03.36.52:070][314]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.36.52:070][314]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Foot.uasset.
+[2018.04.13-03.36.52:071][314]LogLinker: Warning: Can't find file '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01'
+[2018.04.13-03.36.52:071][314]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeIceLands/Effects/FX_Ambient/Fire/P_Fire_Torch_01' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Foot.uasset.
+[2018.04.13-03.36.52:075][314]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.36.52:076][314]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Weapon_Sword.uasset.
+[2018.04.13-03.36.52:076][314]LogLinker: Warning: Can't find file '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword'
+[2018.04.13-03.36.52:076][314]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_DragonSword/SK_Blade_DragonSword' while loading ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/Weapon_Sword.uasset.
+[2018.04.13-03.36.52:764][314]LogLinker: Warning: Can't find file '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat'
+[2018.04.13-03.36.52:764][314]LogLinker: Warning: Can't find file for asset '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat' while loading ../../../../../RiseOfArc/Aphelon/Content/Geometry/Geometry/ModularKit/Bricks/Brick1/Brick1.uasset.
+[2018.04.13-03.36.52:764][314]LoadErrors: Error: /Game/Geometry/Geometry/ModularKit/Bricks/Brick1/Brick1 : Can't find file for asset. /Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat
+[2018.04.13-03.36.52:764][314]LogLinker: Warning: Can't find file '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat'
+[2018.04.13-03.36.52:764][314]LogLinker: Warning: Can't find file for asset '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat' while loading ../../../../../RiseOfArc/Aphelon/Content/Geometry/Geometry/ModularKit/Bricks/Brick1/Brick1.uasset.
+[2018.04.13-03.36.52:801][314]LogLinker: Warning: Can't find file '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat'
+[2018.04.13-03.36.52:801][314]LoadErrors: Failed to load /Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat.Brick1_Mat Referenced by Brick1
+[2018.04.13-03.36.52:801][314]LogLinker: Warning: Can't find file for asset '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat' while loading NULL.
+[2018.04.13-03.36.52:801][314]LogLinker: Warning: Can't find file '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat'
+[2018.04.13-03.36.52:802][314]LogLinker: Warning: Can't find file for asset '/Game/Geometry/ModularKit/Bricks/Brick1/Brick1_Mat' while loading NULL.
+[2018.04.13-03.36.53:837][314]LogAIModule: Creating AISystem for world Arc1
+[2018.04.13-03.36.55:449][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Oak" FILE="../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Oak.uasset" SILENT=true
+[2018.04.13-03.36.55:544][314]LogSavePackage: Save=86.26ms
+[2018.04.13-03.36.55:544][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/M_Wood_Oak4B8CD9794EBF521214C8F099CDBFE014.tmp' to '../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Oak.uasset'
+[2018.04.13-03.36.55:565][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2018.04.13-03.36.55:579][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2018.04.13-03.36.55:641][314]LogSavePackage: Save=50.96ms
+[2018.04.13-03.36.55:641][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/M_Wood_Pine93819FD54BE7B24D5E71F7BF2A2E2FA4.tmp' to '../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2018.04.13-03.36.55:644][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.04.13-03.36.55:656][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/defaultMat" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/defaultMat.uasset" SILENT=true
+[2018.04.13-03.36.55:679][314]LogSavePackage: Save=15.84ms
+[2018.04.13-03.36.55:679][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/defaultMatE33991D145306AB34B46D6902F28EF99.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/defaultMat.uasset'
+[2018.04.13-03.36.55:682][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/defaultMat.uasset
+[2018.04.13-03.36.55:695][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped.uasset" SILENT=true
+[2018.04.13-03.36.55:747][314]LogSavePackage: Save=49.49ms
+[2018.04.13-03.36.55:747][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped9BB4776C4C6585FCFE14898E440530C1.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped.uasset'
+[2018.04.13-03.36.55:751][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped.uasset
+[2018.04.13-03.36.55:764][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.36.55:781][314]LogSavePackage: Save=12.75ms
+[2018.04.13-03.36.55:781][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_PhysicsAssetFEF8F1684ED2F0FC7F163DA5A135389C.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset'
+[2018.04.13-03.36.55:784][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset
+[2018.04.13-03.36.55:784][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton.uasset" SILENT=true
+[2018.04.13-03.36.55:806][314]LogSavePackage: Save=1.70ms
+[2018.04.13-03.36.55:806][314]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_Skeleton72CD262C44D0F1824ED15DB9C81E36F6.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton.uasset'
+[2018.04.13-03.36.55:809][314]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_Skeleton.uasset
+[2018.04.13-03.36.55:833][314]Cmd: MAP LOAD FILE="../../../../../RiseOfArc/Aphelon/Content/Maps/Arc1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-03.36.55:839][314]LightingResults: New page: Lighting Build
+[2018.04.13-03.36.55:854][314]LoadErrors: New page: Loading map: Arc1.umap
+[2018.04.13-03.36.55:855][314]MapCheck: New page: Map Check
+[2018.04.13-03.36.55:855][314]LightingResults: New page: Lighting Build
+[2018.04.13-03.36.56:063][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-03.36.56:145][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-03.36.56:240][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.207ms to complete.
+[2018.04.13-03.36.56:240][314]LogFileHelpers: Loading map 'Arc1' took 0.431
+[2018.04.13-03.36.57:888][406]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.13-03.36.57:913][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-03.36.57:914][406]PIE: New page: PIE session: Arc1 (Apr 12, 2018, 1:36:57 PM)
+[2018.04.13-03.36.57:914][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arc1
+[2018.04.13-03.36.58:016][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102363s)
+[2018.04.13-03.36.58:017][406]LogAIModule: Creating AISystem for world Arc1
+[2018.04.13-03.36.58:017][406]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.04.13-03.36.58:017][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arc1.Arc1 to /Game/Maps/UEDPIE_0_Arc1.Arc1 (0.103445s)
+[2018.04.13-03.36.58:044][406]LogInit: XAudio2 using 'Speakers (ASUS ROG 7.1)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.13-03.36.58:127][406]LogInit: FAudioDevice initialized.
+[2018.04.13-03.36.58:184][406]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.13-03.36.58:194][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arc1.Arc1 up for play (max tick rate 60) at 2018.04.12-20.36.58
+[2018.04.13-03.36.58:259][406]LogWorld: Bringing up level for play took: 0.073859
+[2018.04.13-03.36.58:359][406]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Arc1 1.153
+[2018.04.13-03.36.58:876][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.03:721][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.37.04:125][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.04:473][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.37.04:867][708]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.05:274][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.37.05:644][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.06:596][786]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.37.09:988][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.13:200][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.37.16:887][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.37.19:805][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.38.00:327][559]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\calgo\Downloads\Greatsword.OBJ)
+[2018.04.13-03.38.00:355][559]LogFbx: Loading FBX Scene from C:\Users\calgo\Downloads\Greatsword.OBJ
+[2018.04.13-03.38.00:359][559]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-03.38.04:513][559]LogFbx: Loading FBX Scene from C:\Users\calgo\Downloads\Greatsword.OBJ
+[2018.04.13-03.38.04:517][559]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-03.38.04:517][559]LogFbx: =================================================
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node START [ZBrush_defualt_group] 
+[2018.04.13-03.38.04:517][559]LogFbx: 	Total Deformer Count 1203666848.
+[2018.04.13-03.38.04:517][559]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.38.04:517][559]LogFbx: 		[Node Attribute Child 1] ZBrush_defualt_group (Type Mesh).
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node END [ZBrush_defualt_group]
+[2018.04.13-03.38.04:517][559]LogFbx: =================================================
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node START [ZBrush_defualt_group] 
+[2018.04.13-03.38.04:517][559]LogFbx: 	Total Deformer Count 1203666848.
+[2018.04.13-03.38.04:517][559]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.38.04:517][559]LogFbx: 		[Node Attribute Child 1] ZBrush_defualt_group (Type Mesh).
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node END [ZBrush_defualt_group]
+[2018.04.13-03.38.04:517][559]LogFbx: =================================================
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node START [ZBrush_defualt_group] 
+[2018.04.13-03.38.04:517][559]LogFbx: 	Total Deformer Count 1203666848.
+[2018.04.13-03.38.04:517][559]LogFbx: 	Attribute () Type (4).
+[2018.04.13-03.38.04:517][559]LogFbx: 		[Node Attribute Child 1] ZBrush_defualt_group (Type Mesh).
+[2018.04.13-03.38.04:517][559]LogFbx: Dumping Node END [ZBrush_defualt_group]
+[2018.04.13-03.38.04:518][559]LogLinker: Can't find file '/Game/Maps/ZBrush_defualt_groupMat'
+[2018.04.13-03.38.04:518][559]LogLinker: Can't find file '/Game/Maps/ZBrush_defualt_groupMat'
+[2018.04.13-03.38.04:612][559]LogMaterial: Warning: Material /Game/Maps/ZBrush_defualt_groupMat.ZBrush_defualt_groupMat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.13-03.38.04:616][559]LogMaterial: Missing cached shader map for material ZBrush_defualt_groupMat, compiling. 
+[2018.04.13-03.38.04:758][559]LogMaterial: Missing cached shader map for material ZBrush_defualt_groupMat, compiling. 
+[2018.04.13-03.38.04:836][559]LogFbx: Triangulating skeletal mesh ZBrush_defualt_group
+[2018.04.13-03.38.05:642][559]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.04.13-03.38.05:653][559]LogSkeletalMesh: Section 0: 414 vertices, 1 active bones
+[2018.04.13-03.38.05:657][559]LogSkeletalMesh: Section 0: Material=0, 338 triangles
+[2018.04.13-03.38.05:658][559]LogLinker: Can't find file '/Game/Maps/Greatsword_Skeleton'
+[2018.04.13-03.38.05:659][559]LogLinker: Can't find file '/Game/Maps/Greatsword_Skeleton'
+[2018.04.13-03.38.05:767][559]LogLinker: Can't find file '/Game/Maps/Greatsword_PhysicsAsset'
+[2018.04.13-03.38.05:767][559]LogLinker: Can't find file '/Game/Maps/Greatsword_PhysicsAsset'
+[2018.04.13-03.38.05:921][559]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_5.SkeletalMeshComponent0'
+[2018.04.13-03.38.05:945][559]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.13-03.38.05:945][559]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.04.13-03.38.09:011][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.38.09:085][651]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.04.13-03.39.23:390][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword.uasset" SILENT=true
+[2018.04.13-03.39.23:411][  6]LogSavePackage: Save=18.88ms
+[2018.04.13-03.39.23:411][  6]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword0BF29FB343241440C5A391A83EA3184A.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword.uasset'
+[2018.04.13-03.39.23:415][  6]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword.uasset
+[2018.04.13-03.39.23:439][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.39.23:455][  6]LogSavePackage: Save=13.10ms
+[2018.04.13-03.39.23:456][  6]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword_PhysicsAssetEAC3F0E148FBFC38D2D866B51FE74E2D.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset'
+[2018.04.13-03.39.23:460][  6]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset
+[2018.04.13-03.39.23:466][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset" SILENT=true
+[2018.04.13-03.39.23:482][  6]LogSavePackage: Save=2.04ms
+[2018.04.13-03.39.23:483][  6]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword_Skeleton6B1F3E6E43C44F5C7D5BDEB4B1002324.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset'
+[2018.04.13-03.39.23:485][  6]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset
+[2018.04.13-03.39.23:511][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/ZBrush_defualt_groupMat" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/ZBrush_defualt_groupMat.uasset" SILENT=true
+[2018.04.13-03.39.23:529][  6]LogSavePackage: Save=15.44ms
+[2018.04.13-03.39.23:529][  6]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ZBrush_defualt_groupMat7108A15B459BA033BD70F792A094CDC7.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/ZBrush_defualt_groupMat.uasset'
+[2018.04.13-03.39.23:532][  6]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/ZBrush_defualt_groupMat.uasset
+[2018.04.13-03.40.40:830][216]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-03.40.41:617][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.04.13-03.40.41:825][224]LogSavePackage: Save=196.69ms
+[2018.04.13-03.40.41:825][224]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacter80A5B2E847F899D672F7ED8F04F642E1.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.13-03.40.41:848][224]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.13-03.40.46:933][415]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-03.40.47:777][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.04.13-03.40.47:944][426]LogSavePackage: Save=162.11ms
+[2018.04.13-03.40.47:944][426]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacter3A25452945779C243D3801A19E561B04.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.13-03.40.47:947][426]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.13-03.40.48:723][455]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.13-03.40.48:755][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-03.40.48:756][455]PIE: New page: PIE session: Arc1 (Apr 12, 2018, 1:40:48 PM)
+[2018.04.13-03.40.48:756][455]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arc1
+[2018.04.13-03.40.48:804][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048192s)
+[2018.04.13-03.40.48:805][455]LogAIModule: Creating AISystem for world Arc1
+[2018.04.13-03.40.48:805][455]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2018.04.13-03.40.48:805][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arc1.Arc1 to /Game/Maps/UEDPIE_0_Arc1.Arc1 (0.049600s)
+[2018.04.13-03.40.48:839][455]LogInit: XAudio2 using 'Speakers (ASUS ROG 7.1)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.13-03.40.48:933][455]LogInit: FAudioDevice initialized.
+[2018.04.13-03.40.49:010][455]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.13-03.40.49:021][455]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arc1.Arc1 up for play (max tick rate 60) at 2018.04.12-20.40.49
+[2018.04.13-03.40.49:024][455]LogWorld: Bringing up level for play took: 0.012173
+[2018.04.13-03.40.49:040][455]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Arc1 -0.165
+[2018.04.13-03.40.49:777][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.40.50:528][502]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Arc1.Arc1:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder' cannot be attached to itself. Aborting.
+[2018.04.13-03.40.50:528][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.40.53:534][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.40.53:870][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.40.54:253][626]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Sword Equipped
+[2018.04.13-03.40.54:542][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Staff Equipped
+[2018.04.13-03.41.24:839][252]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-03.41.25:792][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.04.13-03.41.25:945][269]LogSavePackage: Save=148.30ms
+[2018.04.13-03.41.25:945][269]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacterFC187D884B9C7DFF558C29943C1315A8.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.13-03.41.25:949][269]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.13-03.44.42:137][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-03.44.42:137][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-03.45.12:370][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.45.12:799][695]LogSavePackage: Save=41.35ms
+[2018.04.13-03.45.12:799][695]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_PhysicsAsset81FECC6A4AB6542B7536D49F0460D617.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset'
+[2018.04.13-03.45.12:801][695]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset
+[2018.04.13-03.45.22:065][996]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-03.45.32:229][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.45.32:238][355]LogSavePackage: Save=3.73ms
+[2018.04.13-03.45.32:238][355]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_PhysicsAssetE6271CDC4894295DF931FA8EC05DAF0C.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset'
+[2018.04.13-03.45.32:248][355]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset
+[2018.04.13-03.47.46:589][193]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.47:417][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.47:501][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.47:503][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.47:548][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.47:559][193]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.48:060][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.48:073][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.48:074][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.48:113][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.48:117][193]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.48:632][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.48:645][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.48:646][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.48:682][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.48:699][193]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.49:195][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.49:209][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.49:210][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.49:243][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.49:247][193]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.49:765][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.49:778][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.49:778][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.49:814][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.50:672][231]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.51:182][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.51:197][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.51:198][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.51:232][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.51:910][254]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.52:416][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.52:430][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.52:431][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.52:467][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.52:922][268]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.53:434][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.53:451][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.53:451][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.53:489][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.53:872][280]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.54:410][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.54:427][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.54:427][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.54:465][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.54:908][296]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.55:415][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.55:429][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.55:430][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.55:468][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.55:876][310]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.56:402][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.56:416][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.56:417][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.56:455][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.56:870][325]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.47.57:402][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.57:417][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.57:418][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.57:455][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.58:105][348]LogEditorTransaction: Undo Set Scale
+[2018.04.13-03.47.58:134][348]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_18:PersistentLevel.ThirdPersonCharacter_C_1.CollisionCylinder) Component already registered.
+[2018.04.13-03.47.58:622][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.58:638][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.58:638][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.58:680][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.47.59:176][364]LogEditorTransaction: Undo Set Scale
+[2018.04.13-03.47.59:204][364]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_18:PersistentLevel.ThirdPersonCharacter_C_1.CollisionCylinder) Component already registered.
+[2018.04.13-03.47.59:690][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.59:704][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.47.59:705][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.47.59:744][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.48.00:162][378]LogEditorTransaction: Undo Set Scale
+[2018.04.13-03.48.00:190][378]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_18:PersistentLevel.ThirdPersonCharacter_C_1.CollisionCylinder) Component already registered.
+[2018.04.13-03.48.00:674][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.00:690][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.48.00:691][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.00:730][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.48.01:540][406]LogEditorTransaction: Undo Set Scale
+[2018.04.13-03.48.01:569][406]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_18:PersistentLevel.ThirdPersonCharacter_C_1.CollisionCylinder) Component already registered.
+[2018.04.13-03.48.02:072][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.02:087][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.48.02:088][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.02:129][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.48.28:884][270]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.48.29:441][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.29:459][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.48.29:460][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.29:501][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.48.29:638][271]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-03.48.30:150][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.30:168][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.48.30:169][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.48.30:212][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.49.54:281][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-03.49.54:281][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-03.49.54:281][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.49.54:286][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.49.55:958][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.49.55:968][308]LogSavePackage: Save=3.78ms
+[2018.04.13-03.49.55:968][308]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_PhysicsAsset223A412743B6799E129684B1A71DC56B.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset'
+[2018.04.13-03.49.55:972][308]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Staff1/StaffUnwarped_PhysicsAsset.uasset
+[2018.04.13-03.50.01:732][569]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-03.50.02:939][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.04.13-03.50.03:090][586]LogSavePackage: Save=142.78ms
+[2018.04.13-03.50.03:090][586]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacterB0178B0E4548D0CE2947EE998CE9C66F.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.13-03.50.03:094][586]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.13-03.50.50:259][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-03.50.50:310][622]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.04.13-03.50.52:349][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-03.50.52:387][681]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.04.13-03.51.02:299][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-03.51.02:349][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.04.13-03.51.02:898][ 46]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.13-03.51.03:593][ 66]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Anims/sheath_sword_1.sheath_sword_1
+[2018.04.13-03.51.03:615][ 66]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Anims/sheath_sword_1.sheath_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.13-03.51.18:388][602]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Anims/sword_and_shield_block_idle.sword_and_shield_block_idle
+[2018.04.13-03.51.18:388][602]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Anims/sword_and_shield_block_idle.sword_and_shield_block_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.13-03.52.29:555][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.53.03:690][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.53.04:027][546]LogSavePackage: Save=3.76ms
+[2018.04.13-03.53.04:027][546]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword_PhysicsAsset6E6710F74E2EB72CEE33B3BE083254E1.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset'
+[2018.04.13-03.53.04:030][546]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset
+[2018.04.13-03.53.38:718][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset" SILENT=true
+[2018.04.13-03.53.39:110][890]LogSavePackage: Save=3.93ms
+[2018.04.13-03.53.39:110][890]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword_PhysicsAsset5DED6F41413651CDACBA0EBBB5654652.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset'
+[2018.04.13-03.53.39:111][890]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_PhysicsAsset.uasset
+[2018.04.13-03.53.39:961][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-03.53.39:997][920]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.04.13-03.54.08:443][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-03.54.36:213][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Greatsword_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset" SILENT=true
+[2018.04.13-03.54.36:228][206]LogSavePackage: Save=1.82ms
+[2018.04.13-03.54.36:229][206]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Greatsword_Skeleton5D044B584A04F720A9C669B1393674A7.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset'
+[2018.04.13-03.54.36:231][206]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Greatsword_Skeleton.uasset
+[2018.04.13-03.55.16:419][712]Cmd: TRANSACTION UNDO
+[2018.04.13-03.55.16:419][712]LogEditorTransaction: Undo Rename Socket And Move Attachments
+[2018.04.13-03.55.17:572][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.55.17:572][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-03.55.17:589][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.55.17:589][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-03.55.17:590][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.55.17:590][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.55.17:602][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.55.17:602][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.55.17:610][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-03.55.17:612][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-03.55.17:698][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-03.55.17:701][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.55.17:744][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-03.55.17:760][712]Cmd: TRANSACTION UNDO
+[2018.04.13-03.55.17:760][712]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2018.04.13-03.55.18:873][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.55.18:873][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-03.55.18:890][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.55.18:890][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-03.55.18:891][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-03.55.18:891][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.55.18:898][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-03.55.18:898][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-03.55.18:915][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-03.55.18:917][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-03.55.18:929][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-03.55.18:930][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-03.55.18:973][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-03.58.27:258][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Paladin_Character_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset" SILENT=true
+[2018.04.13-03.58.27:625][702]LogSavePackage: Save=37.58ms
+[2018.04.13-03.58.27:625][702]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Paladin_Character_SkeletonF02FBBE9493537C25EF043A89A2D3CF4.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset'
+[2018.04.13-03.58.27:629][702]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset
+[2018.04.13-03.58.39:701][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Paladin_Character_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset" SILENT=true
+[2018.04.13-03.58.39:710][140]LogSavePackage: Save=4.57ms
+[2018.04.13-03.58.39:710][140]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Paladin_Character_Skeleton3A71A9BF48908787FED5FFBB2C3DADE2.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset'
+[2018.04.13-03.58.39:721][140]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset
+[2018.04.13-03.59.14:014][649]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Arc1' took 0.059
+[2018.04.13-03.59.14:082][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.13-03.59.14:106][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.13-03.59.14:106][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.13-03.59.14:298][649]LogSavePackage: Save=182.58ms
+[2018.04.13-03.59.14:298][649]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacter_Auto1AB4081D64F6ED027A52931A660AE5278.tmp' to '../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.04.13-03.59.14:330][649]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.04.13-03.59.14:331][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Warrior/Paladin_Character] ([1] browsable assets)...
+[2018.04.13-03.59.14:351][649]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Warrior/Paladin_Character.Paladin_Character]
+[2018.04.13-03.59.14:351][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Warrior/Paladin_Character]
+[2018.04.13-03.59.14:425][649]LogSavePackage: Save=56.44ms
+[2018.04.13-03.59.14:428][649]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Paladin_Character_Auto19DA95FF84BB1BB1D7211D1BE481AED9D.tmp' to '../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Warrior/Paladin_Character_Auto1.uasset'
+[2018.04.13-03.59.14:430][649]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Warrior/Paladin_Character_Auto1.uasset
+[2018.04.13-03.59.14:430][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Staff1/StaffUnwarped] ([1] browsable assets)...
+[2018.04.13-03.59.14:449][649]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Staff1/StaffUnwarped.StaffUnwarped]
+[2018.04.13-03.59.14:449][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Staff1/StaffUnwarped]
+[2018.04.13-03.59.14:495][649]LogSavePackage: Save=17.76ms
+[2018.04.13-03.59.14:495][649]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/StaffUnwarped_Auto1C8A434AA45E78747B2C97983356EFC57.tmp' to '../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Staff1/StaffUnwarped_Auto1.uasset'
+[2018.04.13-03.59.14:505][649]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Saved/Autosaves/Game/ThirdPersonBP/Staff1/StaffUnwarped_Auto1.uasset
+[2018.04.13-03.59.14:505][649]LogFileHelpers: Auto-saving content packages took 0.487
+[2018.04.13-04.01.03:989][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Warrior/Paladin_Character_Skeleton" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset" SILENT=true
+[2018.04.13-04.01.04:303][ 34]LogSavePackage: Save=5.19ms
+[2018.04.13-04.01.04:303][ 34]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/Paladin_Character_Skeleton54885960468D18D97231F69C494EEB52.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset'
+[2018.04.13-04.01.04:307][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Warrior/Paladin_Character_Skeleton.uasset
+[2018.04.13-04.01.07:496][138]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.04.13-04.01.08:612][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.04.13-04.01.08:762][157]LogSavePackage: Save=144.97ms
+[2018.04.13-04.01.08:762][157]LogSavePackage: Moving '../../../../../RiseOfArc/Aphelon/Saved/ThirdPersonCharacterC578856A41AB0976ACD3ABAEDCBF03AB.tmp' to '../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.13-04.01.08:765][157]LogSavePackage: Display: Finished SavePackage ../../../../../RiseOfArc/Aphelon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.13-04.01.29:217][912]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-04.01.30:215][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.30:216][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-04.01.30:231][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.30:231][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-04.01.30:232][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.30:232][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.30:242][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.30:242][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-04.01.30:259][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-04.01.30:260][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-04.01.30:269][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-04.01.30:270][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.30:306][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-04.01.30:330][912]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-04.01.31:322][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.31:322][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-04.01.31:337][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.31:337][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-04.01.31:338][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.31:338][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.31:344][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.31:344][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-04.01.31:362][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-04.01.31:363][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-04.01.31:374][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-04.01.31:376][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.31:413][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.13-04.01.31:429][912]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.13-04.01.32:412][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.32:412][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0'
+[2018.04.13-04.01.32:428][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.32:428][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1'
+[2018.04.13-04.01.32:428][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.13-04.01.32:428][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.32:435][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.04.13-04.01.32:435][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.13-04.01.32:454][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.13-04.01.32:455][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.13-04.01.32:466][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_6.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.13-04.01.32:467][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_7.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.13-04.01.32:508][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_8.DebugSkelMeshComponent_7) Already registered. Aborting.
